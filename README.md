@@ -63,4 +63,18 @@ Faire differents niveaux de droit, sur 3 niveau le troisième etant le plus faib
       -Niveau 2 consultation des devis/factures + modification des devis
       -Niveau 1 consultation des devis/facture + creation/modification de devis + creation facture
       -Niveau 0 droits totals sur toutes les actions, attribution des droits aux utilisateurs
+      
+      
+Jour 2 :
+
+
+   Mise en place de la base de donnée
+   préparation des requêtes SQL pour les pages connexion/inscription
+   plus de précision sur l'outils a développer, outils de gestion de devis/facture + dashboard de gestion de comptabilité pour l'entreprise.
+   pouvoir faire un bilan des sommes perçu, des taxes, des cotisation sociales générer toutes les information essentiel a la comptabilité
+   avoir la possibilité de trié les facture/devis par date / par etat (payé/impayé).
+   Mise en place de TOKEN (valeur dynamique pour authentifié un changement) utilisé pour la renitialisation du mot de passe, ainsi que pour la
+   vérification de la signature du devis.
+   
+   
 
