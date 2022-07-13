@@ -77,4 +77,16 @@ Jour 2 :
    vérification de la signature du devis.
    
    
+   Jour 3:
+
+
+   Ecriture des première requêtes SQL
+	-pouvoir ajouter un nouvelle utilisateur par le biais d'un formulaire d'inscription
+	-recupérée les donnée de la table pour les comparée s'il existe
+	-s'il existe lui donner accès a la page suivante 'landing page" ou plus tard, le dashboard
+
+   Application d'encryptage du mot de passe en Sha256
+   Mise en place de la notion de token pour les utilisateur, ce qui nous permet de mieux gerer les sessions.
+   mise en place d'alerte pour les erreurs (mot de passe incorrect, utilisateur innexistant etc)
+   
 
